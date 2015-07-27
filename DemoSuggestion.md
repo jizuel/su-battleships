@@ -1,0 +1,7 @@
+# Idea for Gameplay tutorials #
+
+> On the last meeting was decided that in the first sprint the aim will be to complete a "minimal prototype" of the game. Tony has updated the Demo user stories proposed by the Product Owner. In order not to separate code and functionalities in different projects, i propose the following idea:
+
+> The game can support learning demos - some sort of gameplay tutorials. For example - learn how to aim , learn how to fire and see the result , learn how to position a ship - how to move it left/right/up/down and how to flip it on 90 degrees , learn how to place the ship in a free position(this covers the functionality when UI has to show to the user when 2 ships intercept while user is trying to place a ship in a different position). Besides, those functionalities has to be developed separately in order the hole team to be able to work on different tasks in the same time.So I think it is a good idea for the game to support such gameplay demos - the code for the tutorials will be in the main project , and will be used in the tutorials and in the real game - because the tutorials have to work , there will be no way for the game development to extend and break the interface of the tutorial classes.
+
+> I personally can take up all the work for integrating the gameplay tutorials in the game , becase i believe the idea is cool :)
